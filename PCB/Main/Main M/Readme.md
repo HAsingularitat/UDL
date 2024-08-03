@@ -1,0 +1,1 @@
+Esta es una subversion de la Main C , solo que simplificada, con la finalidad de conectar la matriz de sensores  autonomos  que  se crean al comunicarse entre si, con un Smartphone o algun otro elementro el cual se encargara de procesar y enviar los datos.

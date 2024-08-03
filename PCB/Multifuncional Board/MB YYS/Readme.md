@@ -1,0 +1,1 @@
+Ademas de las conexiones basicas del las MBs, agrega un conector para 1 sensor yys

@@ -1,0 +1,1 @@
+Las  MB (Multifuncional  Board) son las placas encargadas de ser las intermedirarias entre los sensores y el microcontrolador  , las cuales preparan los detalles mas finos para usar los sensores , ademas de agegar un adc para sensores de temperaturas adicionales (ntc), coenciones para sensores de temperatura ,predsion y humedad
